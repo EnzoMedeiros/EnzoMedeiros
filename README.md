@@ -17,5 +17,6 @@
   <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Enzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Enzo-Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
+  <img align="right" alt="alien-pic" height="150" style="border-radius:50px;" src="https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif">
 </div>
   
