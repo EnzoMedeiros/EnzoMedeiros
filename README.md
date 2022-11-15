@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Enzo
 
-- 🔭 I’m currently working on Front-end
+- 🔭 I’m currently working on Web
 - 🌱 I’m currently learning flutter and dart
 - 📫 How to reach me: enzomedeiros7@outlook.com
 - 😄 Pronouns: ele/dele
