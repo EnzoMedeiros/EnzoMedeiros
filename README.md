@@ -1,9 +1,8 @@
 ### Oi! Eu sou o Enzo
 
 - 🔭 I’m currently working on Web
-- 🌱 I’m currently learning flutter and dart
+- 🌱 I'm studying Computer engineering
 - 📫 How to reach me: enzomedeiros7@outlook.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/EnzoMedeiros">
